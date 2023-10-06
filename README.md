@@ -1,16 +1,28 @@
-### Hi there 👋
+### Welcome to my GitHub profile
 
-<!--
-**sirawitch/sirawitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+My name is Sirawitch Tiyasuttipun (Beam).
 
-Here are some ideas to get you started:
+4th year student, Computer Engineering, Chulalongkorn University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I interested in Data Science and Competitive Programming.
+
+## Award && Experience
+Silver Medal from 15th Thailand Olympiad in Informatics (TOI15).
+
+IPST Camp 1, 2019.
+
+Front-end Developer in Wigglepaws Project (Software Engineering II Project).
+
+Teacher Assistant (TA), Program Methodology.
+
+## Programming Language && Tools
+
+Languages : C, C++, Python, Java, JavaScript, MySQL, MongoDB
+
+Tools : CodeBlocks, VS Code, IntelliJ, Jupyter, Eclipse, Figma
+
+Framework : React, TailwindCSS
+
+## More
+I don't know what is next things, I must to do. But I love to coding for solving problems.
