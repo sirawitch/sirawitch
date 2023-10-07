@@ -24,5 +24,3 @@ Tools : CodeBlocks, VS Code, IntelliJ, Jupyter, Eclipse, Figma
 
 Framework : React, TailwindCSS
 
-## More
-I don't know what is next things, I must to do. But I love to coding for solving problems.
