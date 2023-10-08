@@ -14,6 +14,8 @@ IPST Camp 1, 2019.
 
 Front-end Developer in Wigglepaws Project (Software Engineering II Project).
 
+Business Analyst, Summer Internship at GlobeTech, CDG Group in June-July, 2023.
+
 Teacher Assistant (TA), Program Methodology.
 
 ## Programming Language && Tools
