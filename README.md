@@ -11,6 +11,8 @@ My name is Sirawitch Tiyasuttipun (Beam).
 
 I interested in Data Science and Competitive Programming.
 
+My resume [resume](Resume.pdf)
+
 ## Award && Experience
 Silver Medal from 15th Thailand Olympiad in Informatics (TOI15).
 
